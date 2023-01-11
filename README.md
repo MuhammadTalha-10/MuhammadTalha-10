@@ -23,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalha-10&show_icons=true&locale=en&layout=compact" alt="muhammadtalha-10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalha-10&show_icons=true&locale=en" alt="muhammadtalha-10" /></p>
-PAT_1 = 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
