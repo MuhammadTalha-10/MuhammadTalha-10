@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML<br>🌱 I’m currently learning tensorflow, scikit learn<br>
+🔭 I’m currently working on Cyber-Security <br>
 
 
 ## 🌐 Socials:
